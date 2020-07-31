@@ -4,4 +4,4 @@
 2. 安装redis
 3. 克隆代码 https://github.com/sendy-109/distributed-lock.git
 4. go mod init lock
-5. go build main
+5. go build
