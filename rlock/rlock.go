@@ -2,7 +2,7 @@ package rlock
 
 import (
 	"errors"
-	"lock/rds"
+	"github.com/sendy-109/distributed-lock/rds"
 	"time"
 )
 
