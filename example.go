@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 	"github.com/go-redis/redis"
-	"lock/rds"
-	"lock/rlock"
+	"github.com/sendy-109/distributed-lock/rds"
+	"github.com/sendy-109/distributed-lock/rlock"
 	"time"
 )
 
